@@ -15,12 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: THINK DIFF DO MORE
 email: jumengchen@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  I'm here to write sth important and interesting for me /n
+description: >- # this means to ignore newlines until "baseurl:" 
   在此，记录，回想，感动
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "judgementc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+wechat_username:  judgementc
 github_username:  judgementc
 
 # Build settings
